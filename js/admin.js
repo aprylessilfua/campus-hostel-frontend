@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", () => { /* admin panel fetch */ });

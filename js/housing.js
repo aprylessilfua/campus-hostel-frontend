@@ -1,0 +1,1 @@
+document.getElementById("housingForm").addEventListener("submit", async (e) => { e.preventDefault(); /* housing logic */ });
